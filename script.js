@@ -26,4 +26,4 @@ background-color: var(--alto-contraste-fundo);
 div
 .alto-contraste .fundo-galeria {
 background: none;
-es-
+scrollrev
